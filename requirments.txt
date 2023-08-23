@@ -1,2 +1,5 @@
 pandas
 nltk
+scikit-learn
+gensim
+tqdm
